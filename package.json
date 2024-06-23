@@ -1,0 +1,12 @@
+{
+  "name": "wedding-scan",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:namdq2/scan.namdq.com.git",
+  "author": "Nam Dang <namquoc.dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@vercel/edge": "^1.1.1"
+  }
+}
